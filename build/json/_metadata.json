@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frat Bears #1",
+    "description": "Frat Bears Made Me Do It",
+    "image": "ipfs://QmVJ4nKiRDgiyqjnFYbs2hcYTFwMqGVTfLyG1zUrtYHUDR/1.png",
+    "dna": "f9e773a983393da1e45dcf2ff691d239202d6986",
+    "edition": 1,
+    "date": 1650652921752,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Initiation"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
